@@ -1,1 +1,1 @@
-# Pricing-panel
+# A fully responsive Pricing panel.
